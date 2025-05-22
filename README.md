@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Fresher in Data Science with skills in Python, APIs, data manipulation, EDA, ML algorithms,DL algorithms : ANN, CNN, RNN, LLMs, vector databases, and RAG.</h3>
 
-<img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Description" width="300"/>
+<img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Description" width="600" align="center"/>
 
 
 - 🔭 I’m currently working on mcq-generator using llm. [mcq-generator](https://github.com/yashh2417/mcqgen)
