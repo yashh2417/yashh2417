@@ -2,6 +2,8 @@
 
 ---
 
+## 👨‍💻 About Me
+
 Aspiring Data Scientist with strong Python skills and experience in building and deploying ML models. I work with **LLMs**, **RAG systems** (LangChain, LlamaIndex), and **vector databases** like Pinecone.
 
 Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like TensorFlow, PyTorch, Hugging Face, and OpenCV. Proficient in data manipulation with Pandas and NumPy, and integrating ML models with APIs for real-world applications.
@@ -17,6 +19,14 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 **Language:**  Python, SQL
 
 **Development Tools:**  Git, FastAPI, Flask
+
+---
+
+## 🚀 Projects
+
+* [MCQ Generator](https://github.com/yashh2417/mcqgen): A tool to generate multiple-choice questions using LLMs and RAG-based techniques.
+
+* [Automate Stocks and Cryptocurrencies Research](https://github.com/yashh2417/stock-and-crypto-research): Automates scraping, summarizing, and sentiment analysis of financial news using Python and Hugging Face models to streamline stock and crypto research.
 
 ---
 
