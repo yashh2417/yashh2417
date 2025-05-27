@@ -48,9 +48,6 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 <a href="https://instagram.com/yashh2417" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashh2417" height="30" width="40" />
 </a>
-<a href="mailto:yashh2417@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="40" />
-</a>
 </p>
 
 ---
