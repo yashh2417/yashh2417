@@ -12,7 +12,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 ## 🧠 Technical Skills
 
-**Machine Learning & AI:**  Computer Vision, NLP, Deep Learning, Machine Learning, LLMs
+**Machine Learning & AI:**  Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG
 
 **Frameworks & Libraries:**  TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy
 
