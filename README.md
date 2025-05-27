@@ -2,20 +2,15 @@
 
 ### 🧠 Technical Skills
 
-**Machine Learning & AI:**  
-Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG
+**Machine Learning & AI:**  Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG
 
-**Frameworks & Libraries:**  
-TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy
+**Frameworks & Libraries:**  TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy
 
-**Cloud & Infrastructure:**  
-AWS (Bedrock, Lambda), Azure (AzureEdge), Docker, MLOps
+**Cloud & Infrastructure:**  AWS (Bedrock, Lambda), Azure (AzureEdge), Docker, MLOps
 
-**Data Engineering:**  
-SQL, NoSQL, Kafka, MQTT
+**Data Engineering:**  SQL, NoSQL, Kafka, MQTT
 
-**Development Tools:**  
-Git, FastAPI, Flask
+**Development Tools:**  Git, FastAPI, Flask
 
 
 
