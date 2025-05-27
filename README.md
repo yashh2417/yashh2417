@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<table>
+<p>
   <tr>
     <td width="40%">
       <img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Data Science" width="100%"/>
@@ -20,7 +20,7 @@
       <strong>Development Tools:</strong> Git, FastAPI, Flask
     </td>
   </tr>
-</table>
+</p>
 
 
 
