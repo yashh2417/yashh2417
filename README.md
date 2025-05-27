@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<p>
-  <tr>
-    <td width="40%">
-      <img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Data Science" width="100%"/>
-    </td>
-    <td width="60%">
-      <h3 align="left">Fresher in Data Science with skills in Python, APIs, data manipulation, EDA, ML algorithms, DL algorithms: ANN, CNN, RNN, LLMs, vector databases, and RAG.</h3>
 
-      - 🔭 I’m currently working on MCQ generator using LLM: [mcq-generator](https://github.com/yashh2417/mcqgen)  
-      - 🌱 I’m currently learning more about <strong>LLMs, RAG, LLM Finetuning, Vector Databases, Computer Vision, PyTorch</strong>, etc. to enhance my knowledge daily.
+### 🧠 Technical Skills
 
-      <br/>
+**Machine Learning & AI:**  
+Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG
 
-      <strong>Technical Skills</strong><br/>
-      <strong>Machine Learning & AI:</strong> Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG<br/>
-      <strong>Frameworks & Libraries:</strong> TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy<br/>
-      <strong>Cloud & Infrastructure:</strong> AWS (Bedrock, Lambda), Azure (AzureEdge), Docker, MLOps<br/>
-      <strong>Data Engineering:</strong> SQL, NoSQL, Kafka, MQTT<br/>
-      <strong>Development Tools:</strong> Git, FastAPI, Flask
-    </td>
-  </tr>
-</p>
+**Frameworks & Libraries:**  
+TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy
+
+**Cloud & Infrastructure:**  
+AWS (Bedrock, Lambda), Azure (AzureEdge), Docker, MLOps
+
+**Data Engineering:**  
+SQL, NoSQL, Kafka, MQTT
+
+**Development Tools:**  
+Git, FastAPI, Flask
 
 
 
