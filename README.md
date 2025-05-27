@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Fresher in Data Science with skills in Python, APIs, data manipulation, EDA, ML algorithms,DL algorithms : ANN, CNN, RNN, LLMs, vector databases, and RAG.</h3>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Data Science" width="100%"/>
+    </td>
+    <td width="60%">
+      <h3 align="left">Fresher in Data Science with skills in Python, APIs, data manipulation, EDA, ML algorithms, DL algorithms: ANN, CNN, RNN, LLMs, vector databases, and RAG.</h3>
 
-<p align="center"><img src="https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true" alt="Description" width="600"/></p>
+      - 🔭 I’m currently working on MCQ generator using LLM: [mcq-generator](https://github.com/yashh2417/mcqgen)  
+      - 🌱 I’m currently learning more about <strong>LLMs, RAG, LLM Finetuning, Vector Databases, Computer Vision, PyTorch</strong>, etc. to enhance my knowledge daily.
+    </td>
+  </tr>
+</table>
 
-
-- 🔭 I’m currently working on mcq-generator using llm. [mcq-generator](https://github.com/yashh2417/mcqgen)
-
-- 🌱 I’m currently learning more about **LLMs, RAG, LLM Finetuning, Vector Databases, Computer Vision, Pytorch, etc to enhance my knowledge daily.**
 
 - 📫 How to reach me **yashh2417@gmail.com**
 
