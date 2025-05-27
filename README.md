@@ -9,9 +9,19 @@
 
       - 🔭 I’m currently working on MCQ generator using LLM: [mcq-generator](https://github.com/yashh2417/mcqgen)  
       - 🌱 I’m currently learning more about <strong>LLMs, RAG, LLM Finetuning, Vector Databases, Computer Vision, PyTorch</strong>, etc. to enhance my knowledge daily.
+
+      <br/>
+
+      <strong>Technical Skills</strong><br/>
+      <strong>Machine Learning & AI:</strong> Computer Vision, NLP, Deep Learning, Machine Learning, LLMs, RAG<br/>
+      <strong>Frameworks & Libraries:</strong> TensorFlow, OpenCV, YOLO, scikit-learn, Pandas, NumPy<br/>
+      <strong>Cloud & Infrastructure:</strong> AWS (Bedrock, Lambda), Azure (AzureEdge), Docker, MLOps<br/>
+      <strong>Data Engineering:</strong> SQL, NoSQL, Kafka, MQTT<br/>
+      <strong>Development Tools:</strong> Git, FastAPI, Flask
     </td>
   </tr>
 </table>
+
 
 
 - 📫 How to reach me **yashh2417@gmail.com**
