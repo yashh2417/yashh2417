@@ -32,10 +32,6 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 ---
 
-- 📫 How to reach me **yashh2417@gmail.com**
-
----
-
 ## 💬 Connect with me
 
 <p align="left">
@@ -49,6 +45,10 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashh2417" height="30" width="40" />
 </a>
 </p>
+
+---
+
+- 📫 How to reach me **yashh2417@gmail.com**
 
 ---
 
