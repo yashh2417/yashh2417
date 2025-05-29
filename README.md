@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Aspiring Data Scientist with strong Python skills and experience in building and deploying ML models. I work with **LLMs**, **RAG systems** (LangChain, LlamaIndex), and **vector databases** like Pinecone.
+Aspiring Data Scientist with strong Python skills and experience in building and deploying ML models. I am familiar with **LLMs**, **RAG systems** (LangChain, LlamaIndex), and **vector databases** like Pinecone.
 
 Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like TensorFlow, PyTorch, Hugging Face, and OpenCV. Proficient in data manipulation with Pandas and NumPy, and integrating ML models with APIs for real-world applications.
 
