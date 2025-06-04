@@ -26,6 +26,10 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 * [MCQ Generator](https://github.com/yashh2417/mcqgen): A tool to generate multiple-choice questions using LLMs and RAG-based techniques.
 
+* [LLM-Instruction-Finetuning](https://github.com/yashh2417/LLM-Assistant): Finetuned GPT2-355M LLM for Instructions and integrated with fastapi.
+
+* [LLM-Classification-Finetuning](https://github.com/yashh2417/LLM-Classification): Finetuned GPT2-124M LLM for Classification and integrated with fastapi.
+
 * [Automate Stocks and Cryptocurrencies Research](https://github.com/yashh2417/stock-and-crypto-research): Automates scraping, summarizing, and sentiment analysis of financial news using Python and Hugging Face models to streamline stock and crypto research.
 
 * [Drowsiness Detection](https://github.com/yashh2417/drowsiness-detection-android-app): A Deep Learning Custom Model that detects driver drowsiness in real-time using a custom YOLOv5 model.
