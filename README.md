@@ -26,7 +26,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 * [MCQ Generator](https://github.com/yashh2417/mcqgen): A tool to generate multiple-choice questions using LLMs and RAG-based techniques.
 
-* [Finetuning-on-OpenSource-LLMs-using-Cleaver-Techniques-like-LoRA-and-QLoRA](https://github.com/yashh2417/LLM-Finetuning-using-QLoRA): Fine-tuned on a custom dataset to generate domain-specific responses, as well as on an instruction-based dataset for enhanced question-answering capabilities.
+* [Finetuning-on-OpenSource-LLMs-using-Cleaver-Techniques-like-LoRA-and-QLoRA](https://github.com/yashh2417/LLM-Finetuning-using-LoRA-and-QLoRA): Fine-tuned on a custom dataset to generate domain-specific responses, as well as on an instruction-based dataset for enhanced question-answering capabilities.
 
 * [LLM-Instruction-Finetuning-from-scratch-on-all-the-weights](https://github.com/yashh2417/LLM-Assistant): Fine-tuned GPT2-355M on instruction datasets and deployed via FastAPI for scalable task handling.
 
