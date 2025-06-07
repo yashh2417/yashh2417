@@ -24,7 +24,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 ## 🚀 Projects
 
-* [MCQ Generator](https://github.com/yashh2417/mcqgen): A tool to generate multiple-choice questions using LLMs and RAG-based techniques.
+* [Rag-Assistant](https://github.com/yashh2417/rag-assistant):A tool designed to generate accurate answers to user-provided questions based on the content of PDF documents they upload, leveraging Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques..
 
 * [Finetuning-on-OpenSource-LLMs-using-Cleaver-Techniques-like-LoRA-and-QLoRA](https://github.com/yashh2417/LLM-Finetuning-using-LoRA-and-QLoRA): Fine-tuned on a custom dataset to generate domain-specific responses, as well as on an instruction-based dataset for enhanced question-answering capabilities.
 
