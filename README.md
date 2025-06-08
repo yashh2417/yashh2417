@@ -30,7 +30,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 * [LLM-Instruction-Finetuning-from-scratch-on-all-the-weights](https://github.com/yashh2417/LLM-Assistant): Fine-tuned GPT2-355M on instruction datasets and deployed via FastAPI for scalable task handling.
 
-* [LLM-Classification-Finetuning](https://github.com/yashh2417/LLM-Classification): Fine-tuned GPT2-124M for text classification and deployed using FastAPI.
+* [LLM-Classification-Finetuning](https://github.com/yashh2417/LLM-Classification): Implemented GPT2-124M from scratch and modified the output layer for classification and Fine-tuned on labeled data and deployed using FastAPI for real-time predictions.
 
 * [Automate Stocks and Cryptocurrencies Research](https://github.com/yashh2417/stock-and-crypto-research): Automates scraping, summarizing, and sentiment analysis of financial news using Python and Hugging Face models to streamline stock and crypto research.
 
