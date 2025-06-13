@@ -60,7 +60,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 ## 📄 Publication
 
-* **Automate Stock and Crypto Research Using Python and Machine Learning**  
+* [**Automate Stock and Crypto Research Using Python and Machine Learning**](https://ieeexplore.ieee.org/document/10986447)  
   *Published in:* 2025 3rd International Conference on Disruptive Technologies (ICDT) · May 13, 2025  
   *Description:* Real-time summarization and sentiment analysis of stocks and cryptocurrencies to support forecasting and investment insights.
 
