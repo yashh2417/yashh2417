@@ -18,7 +18,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 **Language:**  Python, SQL
 
-**Development Tools:**  Git, FastAPI, Flask, Docker
+**Development Tools:**  Git, FastAPI, Flask, Docker, Vector Databases
 
 ---
 
