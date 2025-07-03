@@ -30,10 +30,6 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 * [**Finetuning-on-OpenSource-LLMs-using-Cleaver-Techniques-like-LoRA-and-QLoRA**](https://github.com/yashh2417/LLM-Finetuning-using-LoRA-and-QLoRA): Fine-tuned on a custom dataset to generate domain-specific responses, as well as on an instruction-based dataset for enhanced question-answering capabilities.
 
-* [**LLM-Instruction-Finetuning-from-scratch-on-all-the-weights**](https://github.com/yashh2417/LLM-Assistant): Fine-tuned GPT2-355M on instruction datasets and deployed via FastAPI for scalable task handling.
-
-* [**LLM-Classification-Finetuning**](https://github.com/yashh2417/LLM-Classification): Implemented GPT2-124M from scratch and modified the output layer for classification and Fine-tuned on labeled data and deployed using FastAPI for real-time predictions.
-
 * [**Automate Stocks and Cryptocurrencies Research**](https://github.com/yashh2417/stock-and-crypto-research): Automates scraping, summarizing, and sentiment analysis of financial news using Python and Hugging Face models to streamline stock and crypto research.
 
 * [**Drowsiness Detection**](https://github.com/yashh2417/drowsiness-detection-android-app): A Deep Learning Custom Model that detects driver drowsiness in real-time using a custom YOLOv5 model.
