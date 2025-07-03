@@ -26,7 +26,7 @@ Skilled in **NLP**, **Computer Vision**, and **Deep Learning** using tools like 
 
 * [**IntelliShelf-Store**](https://github.com/yashh2417/IntelliShelf): **IntelliShelf** is a full-stack AI-powered platform that combines **Computer Vision**, **LLMs**, and **RAG** to create a smart e-commerce experience for musical instruments. It offers instrument classification, YOLOv8-based defect detection, LLM-generated descriptions, and a LangChain-powered chatbot for FAQs and returns. Built with **FastAPI** and **Docker (ARM64)**, it's ready for deployment on **AWS**, **Oracle**, and **Azure**.
 
-* [**Rag-Assistant**](https://github.com/yashh2417/rag-assistant):A tool designed to generate accurate answers to user-provided questions based on the content of PDF documents they upload, leveraging Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques.
+* [**Rag-Assistant**](https://github.com/yashh2417/rag-assistant):A production-ready RAG (Retrieval-Augmented Generation) web application that leverages Google Gemini Pro for question answering using user-uploaded PDFs or CSVs. Built with FastAPI, LangChain, Pinecone, and LangSmith for robust LLMOps, and deployed using Docker, GitHub Actions, and Render.
 
 * [**Finetuning-on-OpenSource-LLMs-using-Cleaver-Techniques-like-LoRA-and-QLoRA**](https://github.com/yashh2417/LLM-Finetuning-using-LoRA-and-QLoRA): Fine-tuned on a custom dataset to generate domain-specific responses, as well as on an instruction-based dataset for enhanced question-answering capabilities.
 
